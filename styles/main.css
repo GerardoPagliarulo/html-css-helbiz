@@ -221,9 +221,9 @@ body {
   } */
 
   /* HEADER */
-  /* .navbar {
+  .navbar {
     max-width: 100%;
-  } */
+  }
 
   .navbar .navbar-col-left {
     width: 100%;
